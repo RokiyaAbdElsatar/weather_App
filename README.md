@@ -12,7 +12,7 @@ Users can search for any city and view the current weather conditions, including
 <p align="center">
 
   <img width="30%" alt="Process 2" src="https://github.com/user-attachments/assets/dfdaedb8-75c6-4199-81b5-ea2cea88fb46" />
-  <img width="30%" alt="Process 3" src="https://github.com/user-attachments/assets/011b710d-e1aa-4446-a05e-d1b3d40cce7a" />
+  <img width="30%" alt="Process 3" src="https://github.com/user-attachments/assets/000a684f-9b63-4519-ae93-d3e01ab7c020" />
   <img width="30%" alt="Process 4" src="https://github.com/user-attachments/assets/b3272f05-8c2a-404f-9b6c-ce6df20e3f9d" />
 
 </p>
