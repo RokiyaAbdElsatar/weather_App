@@ -113,7 +113,6 @@ dependencies:
 
 - Ensure internet connection for weather data to load.
 - If the API fails, a graceful fallback error message is shown.
-- The app UI is mobile-friendly and adapts well to different screen sizes.
 
 ---
 
