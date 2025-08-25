@@ -27,8 +27,6 @@ class SearchScreen extends StatelessWidget {
               suffixIcon: IconButton(
                 icon: const Icon(Icons.search),
                 onPressed: () {
-                  // Implement search functionality here
-                  // String cityName = searchController.text;
                   final cityName = searchController.text.trim();
                   if (cityName.isNotEmpty) {
                     Navigator.push(context, MaterialPageRoute(
